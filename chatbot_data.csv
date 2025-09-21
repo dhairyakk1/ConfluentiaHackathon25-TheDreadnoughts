@@ -1,0 +1,175 @@
+text,label
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+how are you,greeting
+yo,greeting
+what's up,greeting
+nice to meet you,greeting
+long time no see,greeting
+how’s it going,greeting
+how do you do,greeting
+nice day,greeting
+pleasure to see you,greeting
+hey buddy,greeting
+hello friend,greeting
+good to see you,greeting
+yo man,greeting
+hiya,greeting
+howdy,greeting
+bye,good bye
+goodbye,good bye
+see you later,good bye
+take care,good bye
+catch you later,good bye
+farewell,good bye
+see ya,good bye
+talk to you later,good bye
+have a nice day,good bye
+see you soon,good bye
+see you tomorrow,good bye
+good night,good bye
+until we meet again,good bye
+bye for now,good bye
+later,good bye
+i’m leaving,good bye
+gotta go,good bye
+bye-bye,good bye
+i’ll talk to you soon,good bye
+peace out,good bye
+thank you,thanks
+thanks,thanks
+thanks a lot,thanks
+thank you very much,thanks
+many thanks,thanks
+appreciate it,thanks
+thanks a bunch,thanks
+cheers,thanks
+grateful,thanks
+thank you so much,thanks
+many many thanks,thanks
+thanks again,thanks
+thanks a million,thanks
+thanks so much,thanks
+thanks for your help,thanks
+thanks a ton,thanks
+endless thanks,thanks
+i appreciate that,thanks
+thankful,thanks
+big thanks,thanks
+what is your name,info
+who are you,info
+tell me about yourself,info
+introduce yourself,info
+what do you do,info
+what are you,info
+are you a robot,info
+tell me who you are,info
+what is this bot,info
+what are you called,info
+what is this,info
+what do you mean,info
+what are you exactly,info
+who made you,info
+who created you,info
+tell me something about you,info
+what type of bot are you,info
+are you human,info
+do you have a name,info
+what do you call yourself,info
+help me,help
+i need help,help
+can you help,help
+please assist,help
+support me,help
+i need support,help
+assist me,help
+i want help,help
+help please,help
+can you assist,help
+could you help me,help
+can you give me a hand,help
+would you help,help
+i require help,help
+need some assistance,help
+can you solve my problem,help
+can you explain,help
+please help me,help
+i’m stuck,help
+assist please,help
+hi,greeting
+hello,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+bye,good bye
+goodbye,good bye
+see you later,good bye
+take care,good bye
+thank you,thanks
+thanks a lot,thanks
+thanks buddy,thanks
+appreciate it,thanks
+can you help me,help
+i need some help,help
+what can you do,help
+how can you help me,help
+what is your purpose,info
+who are you,info
+what can you answer,info
+can i eat rice if i have diabetes,diet_query
+is milk safe for someone with lactose intolerance,diet_query
+can i eat bananas with high blood pressure,diet_query
+is it okay to eat spicy food with ulcer,diet_query
+can i have oily food with heart disease,diet_query
+is mango good for diabetes,diet_query
+can a kidney patient drink coconut water,diet_query
+is it safe to eat fried foods with high cholesterol,diet_query
+what fruits are best for anemia,diet_recommendation
+suggest foods for strong immunity,diet_recommendation
+what should i eat for healthy skin,diet_recommendation
+recommend a diet for weight loss,diet_recommendation
+which foods help in improving digestion,diet_recommendation
+text,label
+can i eat rice if i have diabetes,diabetes_avoid
+is brown rice good for diabetes,diabetes_eat
+are sweets safe for a diabetic,diabetes_avoid
+can i eat bitter gourd with diabetes,diabetes_eat
+is mango safe for diabetes,diabetes_avoid
+what fruits are good for diabetes,diabetes_eat
+can a diabetic eat fried snacks,diabetes_avoid
+should i eat nuts for diabetes,diabetes_eat
+can i have milk with diabetes,diabetes_eat
+is chocolate safe for diabetes,diabetes_avoid
+can obese people eat junk food,obesity_avoid
+are salads good for obesity,obesity_eat
+is pizza fine if i am obese,obesity_avoid
+can i eat cucumbers for weight loss,obesity_eat
+is fast food ok for obesity,obesity_avoid
+should obese people eat fruits,obesity_eat
+can an obese person drink soda,obesity_avoid
+are boiled vegetables good for obesity,obesity_eat
+can i eat fried potatoes if obese,obesity_avoid
+are oats good for obesity,obesity_eat
+can hypertensive people eat salty snacks,hypertension_avoid
+is garlic good for hypertension,hypertension_eat
+can i eat pickles with high bp,hypertension_avoid
+is beetroot juice safe for hypertension,hypertension_eat
+should i avoid coffee in hypertension,hypertension_avoid
+are whole grains good for hypertension,hypertension_eat
+is pomegranate juice good for hypertension,hypertension_eat
+is fried chicken ok with high blood pressure,hypertension_avoid
+can i eat bananas if i have hypertension,hypertension_eat
+are chips safe with hypertension,hypertension_avoid
+can i eat spinach with kidney stones,kidney_stone_avoid
+is lemon juice good for kidney stones,kidney_stone_eat
+should i avoid nuts with kidney stones,kidney_stone_avoid
+is coconut water safe for kidney stones,kidney_stone_eat
+are chocolates fine for kidney stone patients,kidney_stone_avoid
+is barley water good for kidney stones,kidney_stone_eat
+should i avoid tea if i have kidney stones,kidney_stone_avoid
+is cucumber safe for kidney stones,kidney_stone_eat
+can i eat beetroot with kidney stones,kidney_stone_avoid
+is orange juice good for kidney stones,kidney_stone_eat
