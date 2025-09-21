@@ -1,9 +1,14 @@
 # ConfluentiaHackathon25-TheDreadnoughts
-Confluentia hackathon IIT-BHU, ProblemStatement6, Team - The Dreadnoughts
+Confluentia hackathon IIT-BHU Problem Statement 6, Team - The Dreadnoughts
+
 Team Leader - Himanshu Mishra
+
 Member 1 -    Dhairya Kant Kislay
+
 Member 2 -    Harsh Chaubey
+
 Member 3 -    Harsh Singh
+
 
 1. Project Overview
 
