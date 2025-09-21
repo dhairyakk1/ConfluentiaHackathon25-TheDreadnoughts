@@ -54,4 +54,7 @@ Database: CSV files for storing food data
 
 Presentation - gamma.ai website
 
-
+6. Setup steps:
+a. From the prototype folder, copy the telegram bot link and paste in web browser.
+b. click on start bot button after logging in to telegram web/opening telegram application
+c. start using the service
